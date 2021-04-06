@@ -6,7 +6,7 @@
 - Phone no:8074378129
 - Address:Tenali,Guntur Dt.
 
-####Educational Details:
+#### Educational Details:
 
 **Btech-Cse**
 - RVR&JC college of engineering
